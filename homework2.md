@@ -6,6 +6,12 @@
 
 * *git version* is a command showing current version of GIT
 
+* *git add filename* is a command for adding changed info into repository
+
+* *git commit* is a command to save added changes
+
+* *git diff* is a command that shows diffrence between commited state and current state
+
 # seminar 2
 
 ## branch creating
