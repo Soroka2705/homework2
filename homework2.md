@@ -40,5 +40,5 @@
 
 ## making and solving conflicts
 
-tosgaglgjsgsg
+* if changes in merging branches cover general zone it will lead to conflict when merging
 
