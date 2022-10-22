@@ -13,7 +13,7 @@
 * for new branch creating command * *git branch branchname* * should be used
 
 * for acqiaintance with existing branches command * *git branch* * should be used
-'
+
 ## switching branches
 
 * for switching between branches command  * *git checkout branchname* * should be used
