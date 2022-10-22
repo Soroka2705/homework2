@@ -6,3 +6,11 @@
 
 * *git version* is a command showing current version of GIT
 
+# seminar 2
+
+## branch creating
+
+## branch merging
+
+## making and solving conflicts
+
