@@ -40,5 +40,5 @@
 
 ## making and solving conflicts
 
-
+this string will lead to conflict
 
