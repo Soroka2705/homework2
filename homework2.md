@@ -41,4 +41,10 @@
 ## making and solving conflicts
 
 
+## transfer, pull and push
 
+* to clone other person's repository from github command * *git clone <link>* * should be used
+
+* command * *git pull* * lets us download remote repository from github
+
+* command * *git push* * lets us send chenged version of reposotory to github where we will see changes
