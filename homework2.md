@@ -14,7 +14,7 @@
 
 * for acqiaintance with existing branches command * *git branch* * should be used
 
-to switch pls use checkout
+* for switching between branches command  * *git checkout branchname* * should be used
 
 
 ## branch merging
