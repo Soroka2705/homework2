@@ -40,5 +40,5 @@
 
 ## making and solving conflicts
 
-this string will lead to conflict
+if changes in merging branches cover general zone it will lead to conflicts while merging
 
