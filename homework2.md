@@ -44,4 +44,9 @@ if changes in merging branches cover general zone it will lead to conflicts whil
 
 ## transfer, pull and push
 
-this string will lead to conflict
+* to clone other person's repository from github command * *git clone <link>* * should be used
+
+* command * *git pull* * lets us download remote repository from github
+
+* command * *git push* * lets us send chenged version of reposotory to github where we will see changes
+
