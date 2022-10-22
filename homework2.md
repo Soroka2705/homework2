@@ -8,7 +8,7 @@
 
 * *git add filename* is a command for adding changed info into repository
 
-* *git commit* is a command to save added changes
+* *git commit -m 'whathappened'* is a command to save added changes
 
 * *git diff* is a command that shows diffrence between commited state and current state
 
@@ -30,8 +30,9 @@
 
 * to see graphic commits history command * *git log --graph* * should be used
 
-
 ## branch merging
+
+* to merge branches command * *git merge branchname* * should be used
 
 ## making and solving conflicts
 
