@@ -24,6 +24,12 @@
 
 * for switching between branches command  * *git checkout branchname* * should be used
 
+## log
+
+* to see commits history command * *git log* * should be used
+
+* to see graphic commits history command * *git log --graph* * should be used
+
 
 ## branch merging
 
