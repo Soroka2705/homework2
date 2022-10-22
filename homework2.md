@@ -34,5 +34,9 @@
 
 * to merge branches command * *git merge branchname* * should be used
 
+## branch deleting
+
+* to delete branch command * *git branch -d branchname* * should be used
+
 ## making and solving conflicts
 
