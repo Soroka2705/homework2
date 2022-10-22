@@ -16,7 +16,7 @@
 '
 ## switching branches
 
-* switch
+* for switching between branches command  * *git checkout branchname* * should be used
 
 
 ## branch merging
