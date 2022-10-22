@@ -10,6 +10,8 @@
 
 ## branch creating
 
+* for new branch creating command * *git branch branchname* * should be used
+
 ## branch merging
 
 ## making and solving conflicts
